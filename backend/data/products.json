@@ -1,0 +1,324 @@
+[
+    {
+        "name": "iPhone 13 Pro",
+        "description": "The most advanced dual-camera system ever on iPhone. Super Retina XDR display with ProMotion. A15 Bionic chip. Durable design.",
+        "shortDescription": "Latest iPhone with A15 Bionic chip",
+        "basePrice": 999.99,
+        "salePrice": 949.99,
+        "costPrice": 750.00,
+        "stock": 100,
+        "category": "electronics",
+        "brand": "Apple",
+        "tags": [
+            "smartphone",
+            "ios",
+            "5g"
+        ],
+        "specifications": [
+            {
+                "name": "Display",
+                "value": "6.1\" Super Retina XDR",
+                "group": "Display"
+            },
+            {
+                "name": "Processor",
+                "value": "A15 Bionic",
+                "group": "Performance"
+            },
+            {
+                "name": "Storage",
+                "value": "128GB",
+                "group": "Storage"
+            }
+        ]
+    },
+    {
+        "name": "MacBook Pro 14\" M2 Pro",
+        "description": "Supercharged by M2 Pro or M2 Max, MacBook Pro takes its power and efficiency further than ever. It delivers exceptional performance whether it's plugged in or not.",
+        "shortDescription": "Powerful 14-inch MacBook Pro",
+        "basePrice": 1999.99,
+        "costPrice": 1600.00,
+        "stock": 50,
+        "category": "laptops",
+        "brand": "Apple",
+        "tags": [
+            "laptop",
+            "macos",
+            "portable"
+        ],
+        "dimensions": {
+            "length": 31.26,
+            "width": 22.12,
+            "height": 1.55,
+            "unit": "cm"
+        }
+    },
+    {
+        "name": "Classic Cotton T-Shirt",
+        "description": "100% premium cotton t-shirt. Comfortable and breathable for all-day wear.",
+        "shortDescription": "Classic fit cotton t-shirt",
+        "basePrice": 29.99,
+        "salePrice": 24.99,
+        "costPrice": 12.50,
+        "stock": 200,
+        "category": "clothing",
+        "brand": "Fashion Plus",
+        "tags": [
+            "casual",
+            "summer",
+            "basic"
+        ],
+        "variants": [
+            {
+                "name": "Small",
+                "price": 24.99,
+                "stock": 50,
+                "sku": "TS-S-RED",
+                "attributes": {
+                    "size": "S",
+                    "color": "Red"
+                }
+            },
+            {
+                "name": "Medium",
+                "price": 24.99,
+                "stock": 75,
+                "sku": "TS-M-RED",
+                "attributes": {
+                    "size": "M",
+                    "color": "Red"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Premium Drip Coffee Maker",
+        "description": "12-cup programmable coffee maker with thermal carafe to keep coffee hot for hours. Perfect for home or office use.",
+        "shortDescription": "12-cup programmable coffee maker",
+        "basePrice": 89.99,
+        "costPrice": 45.00,
+        "stock": 35,
+        "category": "home-kitchen",
+        "brand": "BrewMaster",
+        "tags": [
+            "coffee",
+            "appliance",
+            "kitchen"
+        ],
+        "isFeatured": true,
+        "weight": {
+            "value": 3.2,
+            "unit": "kg"
+        }
+    },
+    {
+        "name": "The Midnight Library",
+        "description": "Between life and death there is a library, and within that library, the shelves go on forever. Every book provides a chance to try another life you could have lived.",
+        "shortDescription": "A novel about second chances",
+        "basePrice": 15.99,
+        "salePrice": 12.99,
+        "costPrice": 6.50,
+        "stock": 150,
+        "category": "books",
+        "brand": "Publisher House",
+        "tags": [
+            "fiction",
+            "bestseller",
+            "novel"
+        ],
+        "isDigital": false
+    },
+    {
+        "name": "Noise Cancelling Wireless Earbuds",
+        "description": "Premium sound quality with active noise cancellation. 30-hour battery life with charging case.",
+        "shortDescription": "Wireless earbuds with ANC",
+        "basePrice": 129.99,
+        "costPrice": 70.00,
+        "stock": 80,
+        "category": "electronics",
+        "brand": "SoundPro",
+        "tags": [
+            "wireless",
+            "audio",
+            "bluetooth"
+        ],
+        "isFeatured": true
+    },
+    {
+        "name": "Eco-Friendly Yoga Mat",
+        "description": "Non-slip, extra thick yoga mat made from eco-friendly materials. Perfect for all types of yoga and workouts.",
+        "shortDescription": "Premium eco-friendly yoga mat",
+        "basePrice": 59.99,
+        "salePrice": 49.99,
+        "costPrice": 25.00,
+        "stock": 65,
+        "category": "sports",
+        "tags": [
+            "yoga",
+            "fitness",
+            "eco-friendly"
+        ],
+        "dimensions": {
+            "length": 183,
+            "width": 61,
+            "height": 0.6,
+            "unit": "cm"
+        }
+    },
+    {
+        "name": "Nike Air Max 2025",
+        "description": "Next-gen running shoes with advanced cushioning.",
+        "category": "Footwear",
+        "brand": "Nike",
+        "price": 149.99,
+        "variants": [
+            {
+                "color": "Black",
+                "sizes": [
+                    {
+                        "size": 40,
+                        "stock": 10
+                    },
+                    {
+                        "size": 41,
+                        "stock": 8
+                    },
+                    {
+                        "size": 42,
+                        "stock": 5
+                    }
+                ],
+                "images": [
+                    "/images/nike-air-max-2025-black-1.jpg",
+                    "/images/nike-air-max-2025-black-2.jpg"
+                ]
+            },
+            {
+                "color": "White",
+                "sizes": [
+                    {
+                        "size": 40,
+                        "stock": 7
+                    },
+                    {
+                        "size": 41,
+                        "stock": 6
+                    },
+                    {
+                        "size": 42,
+                        "stock": 4
+                    }
+                ],
+                "images": [
+                    "/images/nike-air-max-2025-white-1.jpg",
+                    "/images/nike-air-max-2025-white-2.jpg"
+                ]
+            }
+        ],
+        "isActive": true,
+        "rating": 4.7,
+        "numReviews": 12
+    },
+    {
+        "name": "Apple MacBook Pro 16” M4",
+        "description": "Powerful laptop for professionals with M4 chip.",
+        "category": "Electronics",
+        "brand": "Apple",
+        "price": 2599.99,
+        "variants": [
+            {
+                "ram": "16GB",
+                "storage": "512GB SSD",
+                "color": "Space Gray",
+                "stock": 5,
+                "images": [
+                    "/images/macbook-pro-m4-gray.jpg"
+                ]
+            },
+            {
+                "ram": "32GB",
+                "storage": "1TB SSD",
+                "color": "Silver",
+                "stock": 3,
+                "images": [
+                    "/images/macbook-pro-m4-silver.jpg"
+                ]
+            }
+        ],
+        "isActive": true,
+        "rating": 4.9,
+        "numReviews": 7
+    },
+    {
+        "name": "Adidas Ultraboost 24",
+        "description": "Lightweight running shoes with responsive cushioning.",
+        "category": "Footwear",
+        "brand": "Adidas",
+        "price": 129.99,
+        "variants": [
+            {
+                "color": "Blue",
+                "sizes": [
+                    {
+                        "size": 39,
+                        "stock": 6
+                    },
+                    {
+                        "size": 40,
+                        "stock": 9
+                    }
+                ],
+                "images": [
+                    "/images/ultraboost24-blue.jpg"
+                ]
+            },
+            {
+                "color": "Red",
+                "sizes": [
+                    {
+                        "size": 41,
+                        "stock": 4
+                    },
+                    {
+                        "size": 42,
+                        "stock": 7
+                    }
+                ],
+                "images": [
+                    "/images/ultraboost24-red.jpg"
+                ]
+            }
+        ],
+        "isActive": true,
+        "rating": 4.5,
+        "numReviews": 5
+    },
+    {
+        "name": "Samsung Galaxy S25 Ultra",
+        "description": "Flagship smartphone with advanced camera system.",
+        "category": "Electronics",
+        "brand": "Samsung",
+        "price": 1199.99,
+        "variants": [
+            {
+                "color": "Phantom Black",
+                "storage": "256GB",
+                "stock": 10,
+                "images": [
+                    "/images/galaxy-s25-black.jpg"
+                ]
+            },
+            {
+                "color": "Green",
+                "storage": "512GB",
+                "stock": 6,
+                "images": [
+                    "/images/galaxy-s25-green.jpg"
+                ]
+            }
+        ],
+        "isActive": true,
+        "rating": 4.8,
+        "numReviews": 15
+    }
+]
